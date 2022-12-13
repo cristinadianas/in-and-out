@@ -1,2 +1,10 @@
+Ion 0
+
 3
-1 2 3
+banana 88 0.3 23 1.1 0.001
+omleta 207 15.4 2.4 16.1 1
+prajitura 362 23 15 23 1.5
+
+2
+alergare 300
+sala 200
